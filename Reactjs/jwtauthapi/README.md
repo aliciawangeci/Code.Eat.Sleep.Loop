@@ -3,5 +3,6 @@
 ### TODO
 
 * [ ] jwt documentation
-  * [ ] try expiration tokens
-* [ ] Retest with PostMan (don't use the chrome app)
+* [ ] try a client side app with real auth.
+* [x] try expiration tokens
+* [x] Retest with PostMan (don't use the chrome app)
