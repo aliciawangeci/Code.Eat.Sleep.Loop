@@ -1,23 +1,24 @@
 ## Cardio2018
 
-### ONGOING
+### BUILT
+* [x] [Personal website and blog](https://mwamodojnr.github.io) Using jekyll. checkout the [repo](https://github.com/mwamodojnr/mwamodojnr.github.io).
 
-* [ ] Frameworks React(Flux, Redux)
-* [ ] Framewoks (Expressjs, meteor)
-* [ ] Master nodejs
-* [ ] Authentification ( JSON Web Token, Oauth 2.0)
+### ON GOING
+* [ ] CSS Deeper (Responsive Web, Sass, flexbox and Bootstrap 4)
+* [ ] CSS3 (flexbox, rotate, scale, gradients, transform, transition, transition, grids, skew, etc)
+* [ ] CSS Methodologies
 
 ### COMING NEXT
-
-* [ ] CSS Deeper (Responsive Web, Sass, flexbox and Bootstrap 4)
-* [ ] CSS3 (flexbox, rotate, scale, gradients, transform, transition,
-      transition, grids, skew, etc)
-* [ ] CSS Methodologies
+* [ ] EcmaScript Mastery (II) - Continue from [Cardio2017](https://github.com/mwamodojnr/Cardio2017)
 * [ ] JavaScript Design Patterns
 * [ ] JavaScript GOF Design Patterns
+* [ ] Master Nodejs
 * [ ] Testing (Jest, Mocha)
 * [ ] JavaScript Different Testing techniques
 * [ ] SVG (D3)
+* [ ] Frameworks React (Flux, Redux)
+* [ ] Framewoks (Expressjs, meteor)
+* [ ] Authentification ( JSON Web Token, Oauth 2.0)
 
 ## OTHER INTRESTING T0 COMING
 
