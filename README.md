@@ -20,7 +20,7 @@
 * [ ] Framewoks (Expressjs, meteor)
 * [ ] Authentification ( JSON Web Token, Oauth 2.0)
 
-## OTHER INTRESTING T0 COMING
+## OTHER TOPICS COMING UP
 
 * Ghost Blog
 * Electron
@@ -68,3 +68,8 @@
 * Settting up a firewall
 * Postmortem analysis when something bad happens
 * Blockchain (DAPPs)
+
+## DIRECTORY STRUCTURE
+
+### Odin
+This holds practise projects from the [odinproject](https://www.theodinproject.com)
