@@ -1,15 +1,15 @@
-var reverseString = require('./reverseString')
+var reverseString = require("./reverseString");
 
-describe('reverseString', function() {
-  it('reverses single word', function() {
-    expect(reverseString('hello')).toEqual('olleh');
+describe("reverseString", function() {
+  it("reverses single word", function() {
+    expect(reverseString("hello")).toEqual("olleh");
   });
 
-  xit('reverses multiple words', function() {
-    expect(reverseString('hello there')).toEqual('ereht olleh')
-  })
+  it("reverses multiple words", function() {
+    expect(reverseString("hello there")).toEqual("ereht olleh");
+  });
 
-  xit('works with numbers and punctuation', function() {
-    expect(reverseString('123! abc!')).toEqual('!cba !321')
-  })
+  it("works with numbers and punctuation", function() {
+    expect(reverseString("123! abc!")).toEqual("!cba !321");
+  });
 });
