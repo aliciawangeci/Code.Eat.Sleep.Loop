@@ -15,7 +15,6 @@ const ctof = function(celsius) {
 	}
 	let fahrenheit = celsius * 9/5 + 32;
 	return Round(fahrenheit, 1);
-  // T(°F) = T(°C) × 9/5 + 32
 }
 
 module.exports = {
