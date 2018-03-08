@@ -4,15 +4,15 @@
 * [x] [Personal website and blog](https://mwamodojnr.github.io) Using jekyll. checkout the [repo](https://github.com/mwamodojnr/mwamodojnr.github.io).
 
 ### ON GOING
+* [ ] EcmaScript Mastery (II) - Continue from [Cardio2017](https://github.com/mwamodojnr/Cardio2017)
 * [ ] CSS Deeper (Responsive Web, Sass, flexbox and Bootstrap 4)
 * [ ] CSS3 (flexbox, rotate, scale, gradients, transform, transition, transition, grids, skew, etc)
 * [ ] CSS Methodologies
+* [ ] Master Nodejs
 
 ### COMING NEXT
-* [ ] EcmaScript Mastery (II) - Continue from [Cardio2017](https://github.com/mwamodojnr/Cardio2017)
 * [ ] JavaScript Design Patterns
 * [ ] JavaScript GOF Design Patterns
-* [ ] Master Nodejs
 * [ ] Testing (Jest, Mocha)
 * [ ] JavaScript Different Testing techniques
 * [ ] SVG (D3)
@@ -72,4 +72,10 @@
 ## DIRECTORY STRUCTURE
 
 ### Odin
-This holds practise projects from the [odinproject](https://www.theodinproject.com)
+Files and Projects From [odinproject](https://www.theodinproject.com)
+
+### Andela
+Andela's home study curriculum
+
+### HackrRank
+Files From [HackerRank](https://hackerrank.com)
