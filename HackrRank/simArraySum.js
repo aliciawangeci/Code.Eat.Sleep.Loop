@@ -1,10 +1,10 @@
 
-function simpleArraySum(n, ar) {
+function sum(n, ar) {
 	let sumAll = 0;
   	for(i = 0; i < n; i++){
   		sumAll = sumAll + ar[i];
   	}
-  	console.log(sumAll)
+  	return sumAll;
 }
 
-simpleArraySum(6, [1, 2, 3, 4, 10, 11]) // 31
+module.exports = { sum };
