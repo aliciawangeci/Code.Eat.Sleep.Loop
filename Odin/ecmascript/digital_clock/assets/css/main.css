@@ -1,0 +1,16 @@
+html,
+body {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+}
+
+.count {
+	font-family: "Pacifico", cursive;
+	font-size: 2em;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
