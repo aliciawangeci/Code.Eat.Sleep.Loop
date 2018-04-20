@@ -25,7 +25,8 @@
 * [ ] Static Sites JAMStack (Gatsbyjs)
 
 * [ ] Preprocessors (Sass)
-*NOW BUILD*
+
+- *NOW BUILD*
 
 * [ ] CSS Methodologies (BEM, OOCSS, SUITCSS)
 * [ ] CSS3 (flexbox, rotate, scale, gradients, transform, transition, transition, grids, skew, etc)
@@ -34,16 +35,19 @@
 * [ ] JavaScript Regex
 * [ ] JavaScript GOF Design Patterns
 * [ ] JavaScript Different Testing techniques
-*NOW BUILD*
+
+- *NOW BUILD*
 
 * [ ] Mastering Nodejs
 * [ ] Testing (II) (Jest, Mocha)
 * [ ] JavaScript Frameworks (Express)
 * [ ] Package Manager (II) (Yarn, npm)
-*NOW BUILD*
+
+- *NOW BUILD*
 
 * [ ] Go Lang
-*NOW BUILD*
+
+- *NOW BUILD*
 
 * [ ] Web Server (Nginx, Apache, Caddy)
 * [ ] RESTful APIs
@@ -52,7 +56,8 @@
 * [ ] Regular Expressions
 * [ ] GraphQL
 * [ ] Docker
-*NOW BUILD*
+
+- *NOW BUILD*
 
 * [ ] Message Brokers (RabbitMQ)
 
@@ -60,14 +65,16 @@
 * [ ] Relational Databases (MySQL, MariaDB)
 * [ ] NoSQL Databases (MongoDB, Redis)
 * [ ] Caching (Memcached, Redis)
-*NOW BUILD*
+
+- *NOW BUILD*
 
 * [ ] Search Engines ( ElasticSearch, Sphinx, Solr )
 * [ ] GOF Design Partners
 * [ ] Architectural Partners
 * [ ] Give DDD a shot
 * [ ] Learn Different Testing Technique
-*NOW BUILD*
+
+- *NOW BUILD*
 
 * [ ] Operating Systems (Unix, Linux)
 * [ ] Unix (FreeBSD)
@@ -77,7 +84,8 @@
 * [ ] Automation (AWS Cloud Formation, Ansible, Terraform, PowerShell, Puppet, Ansible, Chef, SaltStack)
 
 * [ ] CI / CD (Jenkins, Travis, CircleCI, Drone, Bamboo)
-*NOW BUILD*
+
+- *NOW BUILD*
 
 * [ ] Monitoring and Alerting (Zabbix, Prometheus, Graphite, Munin, PagerDuty, New Relic, Nagios, AppDynamics)
 
@@ -91,7 +99,8 @@
 
 * [ ] Love For The Terminal (Bash, Vim / Nano)
 * [ ] Commands / Tools (text manipulation (awk, sed, grep,sort,uniq,cat,cut, echo, egrep, fgrep), process monitoring (ps, top,htop,atop), system perfomance(nmon, lostat, sar, vmstat), network(nmap.tcpdump, ping, traceroute, airmon))
-*NOW BUILD*
+
+- *NOW BUILD*
 
 * [ ] OSI Model. TCP/IP/UDP Common ports
 * [ ] Knowledge about File Systems
@@ -101,4 +110,5 @@
 * [ ] Settting up a firewall
 * [ ] TLS, STARTTLS, SSL, HTTPS, SCP, SSH, SFTP
 * [ ] Postmortem analysis when something bad happens
-*NOW BUILD*
+
+- *NOW BUILD*
