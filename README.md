@@ -5,6 +5,7 @@
 * [x] Basic Terminal Usage
 * [x] Basic SSH
 * [x] Github
+* [x] Package Manager (Yarn, npm)
 
 ### BUILT
 * [x] [Personal website and blog](https://mwamodojnr.github.io) Using jekyll. checkout the [repo](https://github.com/mwamodojnr/mwamodojnr.github.io).
@@ -12,7 +13,6 @@
 ### ON GOING
 * [ ] ES6
 * [ ] CSS (Responsive Web)
-* [ ] Package Manager (Yarn, npm)
 * [ ] CSS Frameworks (Bootstrap, Semantic UI)
 
 ### COMINGUP
